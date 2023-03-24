@@ -17,6 +17,7 @@ APIConsumer::~APIConsumer() {
     curl_global_cleanup();
 }
 
+
 APIResponse APIConsumer::get(const std::string& url) {
     CURL* curl;
     CURLcode res;

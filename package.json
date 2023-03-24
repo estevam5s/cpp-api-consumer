@@ -1,0 +1,19 @@
+{
+  "name": "cpp-api-consumer",
+  "version": "1.0.0",
+  "description": "API Consumer em C++",
+  "main": "watch_cpp.js",
+  "scripts": {
+    "start": "nodemon --exec 'node watch_cpp.js'"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [
+    "cpp",
+    "api",
+    "consumer"
+  ],
+  "author": "",
+  "license": "ISC"
+}

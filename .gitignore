@@ -1,0 +1,50 @@
+# .gitignore
+
+# node_modules
+node_modules/
+
+# Diretórios de compilação
+build/
+Debug/
+Release/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos gerados por IDEs
+*.user
+*.suo
+*.sdf
+*.vcxproj.user
+*.vcxproj.filters
+
+# Arquivos gerados por linguagens de programação específicas
+*.pyc
+*.pyo
+*.o
+*.lo
+*.la
+*.al
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.exp
+*.ilk
+*.lib
+*.a
+
+# Diretórios gerados por pacotes
+node_modules/
+venv/
